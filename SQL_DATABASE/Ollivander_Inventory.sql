@@ -1,4 +1,9 @@
 /*
+PROBLEM NAME: Ollivander's Inventory
+
+PROBLEM HTTP LINK FROM HACKERRANK.COM:
+https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true&h_r=next-challenge&h_v=zen 
+
 Enter your query here.
 */
 
